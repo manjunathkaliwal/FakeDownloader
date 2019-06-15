@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MoviesPOC
+
+  Created by Manjunath Kaliwal on 2/22/19
+  Copyright © 2019 Manjunath Kaliwal. All rights reserved.
+*/
+"TITLE" = "Most Popular Movies";
+
+"NO_INTERNET" =  "No internet connection";
+
+"NO_DATA"     =  "Movies not found";
+
+"APP_NANE"    =  "MoviesPOC";
+
+"PROBLEM"     =  "There was a problem when trying to open";
